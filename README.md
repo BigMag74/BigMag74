@@ -9,5 +9,7 @@
 - Coroutines
 - Retrofit2
 - Room
-- Koin
+- Koin / Dagger
 - Jetpack navigation component
+- Glide
+- AdapterDelegates
